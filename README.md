@@ -2,10 +2,9 @@
 
 <div align="center">
 
-<!-- Анимированный заголовок с белым текстом и контрастным темным фоном -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,5,10&height=140&section=header&text=CAPCUT%20PRO%20%E2%80%A2%20Crack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unlock%20Video%20Editing%20PC&descSize=14&descColor=00f2fe" width="100%"/>
 
-<!-- Интерактивные стильные бейджи -->
 <p>
   <img src="https://img.shields.io/badge/9.2.0_LATEST-00f2fe?style=for-the-badge&logo=appveyor&logoColor=white&color=0d1117&labelColor=161b22">
   <img src="https://img.shields.io/badge/PLATFORM-WINDOWS_10/11-4facfe?style=for-the-badge&logo=windows&logoColor=00f2fe&color=0d1117&labelColor=161b22">
